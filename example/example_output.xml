@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TransferData xmlns="urn:Transfer">
+  <Accountings>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-07-12" Number="0000000001" Reference="08/01" OptionalReference="" Term="климатици" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-07-12" Number="1000004157" DocumentType="1" />
+      <Company Name="ВИКТОР ЕЛЕКТРИК ПЛЮС ООД" Bulstat="202461329" VatNumber="BG202461329">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-3500.000000" />
+        <AccountingDetail AccountNumber="206" Direction="Debit" VatTerm="1" Amount="-2683.330000" />
+        <AccountingDetail AccountNumber="602/8" Direction="Debit" VatTerm="1" Amount="-233.340000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-583.330000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-07-16" Number="0000000002" Reference="08/02" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-07-16" Number="0000015342" DocumentType="1" />
+      <Company Name="КА ЕМ ГРУП 99 ООД" Bulstat="203533564" VatNumber="BG203533564">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-125.960000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-104.970000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-20.990000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-16" DueDate="2024-08-16" Number="0000000003" Reference="08/03" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-08-16" Number="0200040105" DocumentType="1" />
+      <Company Name="ТЕКРА ЕООД" Bulstat="030432222" VatNumber="BG030432222">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-100.800000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-84.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-16.800000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-06-17" Number="0000000004" Reference="08/04" OptionalReference="" Term="пожарогасители" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-06-17" Number="0000022285" DocumentType="1" />
+      <Company Name="ЕЛИНА-97 ЕООД" Bulstat="117603107" VatNumber="BG117603107">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-242.400000" />
+        <AccountingDetail AccountNumber="602/7" Direction="Debit" VatTerm="1" Amount="-202.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-40.400000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-07-17" Number="0000000005" Reference="08/05" OptionalReference="" Term="дограма" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-07-17" Number="0900001767" DocumentType="1" />
+      <Company Name="БЪЛГАРИЯ ПЛАСТ ТРЕЙД ЕООД" Bulstat="201043376" VatNumber="BG201043376">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-2199.000000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-1832.500000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-366.500000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-19" DueDate="2024-08-19" Number="0000000006" Reference="08/06" OptionalReference="" Term="компютърна с-ма" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-08-19" Number="0004096125" DocumentType="1" />
+      <Company Name="РЕСЕТ КОМПЮТЪРС ООД" Bulstat="121842860" VatNumber="BG121842860">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-870.000000" />
+        <AccountingDetail AccountNumber="204" Direction="Debit" VatTerm="1" Amount="-725.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-145.000000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-06-20" Number="0000000007" Reference="08/07" OptionalReference="" Term="досие" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-06-20" Number="0000022309" DocumentType="1" />
+      <Company Name="ЕЛИНА-97 ЕООД" Bulstat="117603107" VatNumber="BG117603107">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-36.000000" />
+        <AccountingDetail AccountNumber="602/7" Direction="Debit" VatTerm="1" Amount="-30.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-6.000000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-20" DueDate="2024-08-20" Number="0000000008" Reference="08/08" OptionalReference="" Term="комп. части" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-08-20" Number="0004096128" DocumentType="1" />
+      <Company Name="РЕСЕТ КОМПЮТЪРС ООД" Bulstat="121842860" VatNumber="BG121842860">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-152.440000" />
+        <AccountingDetail AccountNumber="601/7" Direction="Debit" VatTerm="1" Amount="-127.040000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-25.400000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-21" DueDate="2024-08-21" Number="0000000009" Reference="08/09" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-08-21" Number="0000014770" DocumentType="1" />
+      <Company Name="СЕКЮРИТРОН ООД" Bulstat="200833898" VatNumber="BG200833898">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-250.930000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-209.110000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-41.820000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-07-24" Number="0000000010" Reference="08/10" OptionalReference="" Term="монтаж" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-07-24" Number="1000004197" DocumentType="1" />
+      <Company Name="ВИКТОР ЕЛЕКТРИК ПЛЮС ООД" Bulstat="202461329" VatNumber="BG202461329">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-240.000000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-200.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-40.000000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-26" DueDate="2024-08-26" Number="0000000011" Reference="08/11" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-08-26" Number="0000015542" DocumentType="1" />
+      <Company Name="КА ЕМ ГРУП 99 ООД" Bulstat="203533564" VatNumber="BG203533564">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-33.700000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-28.080000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-5.620000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-07-30" Number="0000000012" Reference="08/12" OptionalReference="" Term="дигитална ултразвукова с-ма" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-07-30" Number="0100029678" DocumentType="1" />
+      <Company Name="ИНФОМЕД ЕООД" Bulstat="121155656" VatNumber="BG121155656">
+        <BankAccounts>
+          <BankAccount AccountNumber="BG95STSA93000027481196" BankName="Банка ДСК" BankCode="STSABGSF" />
+        </BankAccounts>
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-98274.000000" />
+        <AccountingDetail AccountNumber="206" Direction="Debit" VatTerm="1" Amount="-81895.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-16379.000000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-02" DueDate="2024-09-02" Number="0000000013" Reference="09/13" OptionalReference="" Term="Windows 10Pro" Vies="1" ViesMonth="2025-04-02">
+      <Document Date="2024-09-02" Number="2406400870" DocumentType="1" />
+      <Company Name="Forscope a.s." Bulstat="04885414" VatNumber="CZ04885414">
+        <BankAccounts>
+          <BankAccount AccountNumber="BG28UNCR70001523019070" BankName="Уникредит Булбанк" BankCode="UNCRBGSF" />
+        </BankAccounts>
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="602/6" Direction="Debit" VatTerm="1" Amount="-208.000000" />
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-208.000000" />
+      </AccountingDetails>
+      <ICA ICAType="2" ViesMonth="2025-04-01" DeliveryDescription="услуга" Reference="" Term="Самоначисляване на ДДС при услуга" VATAmount="41.600000" OperationByVAT="3" TerminateAssetCreditAccount="602/6">
+        <Document Date="2024-09-02" Number="0000000001" DocumentType="13" />
+      </ICA>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-04" DueDate="2024-09-04" Number="0000000014" Reference="09/14" OptionalReference="" Term="табелка" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-04" Number="5000000301" DocumentType="1" />
+      <Company Name="Крис Дизайн 2023 ЕООД" Bulstat="207293789" VatNumber="BG207293789">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-64.000000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-53.330000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-10.670000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-05" DueDate="2024-09-05" Number="0000000015" Reference="09/15" OptionalReference="" Term="комп. части" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-05" Number="0004096232" DocumentType="1" />
+      <Company Name="РЕСЕТ КОМПЮТЪРС ООД" Bulstat="121842860" VatNumber="BG121842860">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-39.960000" />
+        <AccountingDetail AccountNumber="601/7" Direction="Debit" VatTerm="1" Amount="-33.300000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-6.660000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-05" DueDate="2024-09-05" Number="0000000016" Reference="09/16" OptionalReference="" Term="комп. части" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-05" Number="0004096226" DocumentType="1" />
+      <Company Name="РЕСЕТ КОМПЮТЪРС ООД" Bulstat="121842860" VatNumber="BG121842860">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-110.000000" />
+        <AccountingDetail AccountNumber="601/7" Direction="Debit" VatTerm="1" Amount="-91.670000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-18.330000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-01" DueDate="2024-08-06" Number="0000000017" Reference="09/17" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-08-06" Number="0000015461" DocumentType="1" />
+      <Company Name="КА ЕМ ГРУП 99 ООД" Bulstat="203533564" VatNumber="BG203533564">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-233.600000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-194.660000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-38.940000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-09" DueDate="2024-09-09" Number="0000000018" Reference="09/18" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-09" Number="0000016675" DocumentType="1" />
+      <Company Name="ЛАЙТ БГ ЕООД" Bulstat="203663159" VatNumber="BG203663159">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-56.500000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-47.080000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-9.420000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-10" DueDate="2024-09-10" Number="0000000019" Reference="09/19" OptionalReference="" Term="комп. части" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-10" Number="0004096247" DocumentType="1" />
+      <Company Name="РЕСЕТ КОМПЮТЪРС ООД" Bulstat="121842860" VatNumber="BG121842860">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-18.610000" />
+        <AccountingDetail AccountNumber="601/7" Direction="Debit" VatTerm="1" Amount="-15.510000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-3.100000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-13" DueDate="2024-09-13" Number="0000000020" Reference="09/20" OptionalReference="" Term="рекламни материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-13" Number="5000000311" DocumentType="1" />
+      <Company Name="Крис Дизайн 2023 ЕООД" Bulstat="207293789" VatNumber="BG207293789">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-120.000000" />
+        <AccountingDetail AccountNumber="602/5" Direction="Debit" VatTerm="1" Amount="-100.000000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-20.000000" />
+      </AccountingDetails>
+    </Accounting>
+    <Accounting AccountingDate="2025-04-13" DueDate="2024-09-13" Number="0000000021" Reference="09/21" OptionalReference="" Term="материали" Vies="1" ViesMonth="2025-04-01">
+      <Document Date="2024-09-13" Number="0000016722" DocumentType="1" />
+      <Company Name="ЛАЙТ БГ ЕООД" Bulstat="203663159" VatNumber="BG203663159">
+        <BankAccounts />
+      </Company>
+      <AccountingDetails>
+        <AccountingDetail AccountNumber="401/1" Direction="Credit" VatTerm="1" Amount="-132.800000" />
+        <AccountingDetail AccountNumber="613/1" Direction="Debit" VatTerm="1" Amount="-110.670000" />
+        <AccountingDetail AccountNumber="430" Direction="Debit" VatTerm="1" Amount="-22.130000" />
+      </AccountingDetails>
+    </Accounting>
+  </Accountings>
+</TransferData>
